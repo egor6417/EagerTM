@@ -2,3 +2,8 @@ html, body {
 	background-color: #EAECEE;
 	text-color: black;
 	}
+	
+p {
+	margin-left: 10%;
+	margin-right: 10%;
+	}
